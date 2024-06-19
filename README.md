@@ -1,6 +1,6 @@
-# Hi!
+Hi!
 
-#I'm Quinn Mazza
+I'm Q.
 
 <!--
 **qmazza/qmazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
